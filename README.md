@@ -24,7 +24,7 @@ A fully automated script to install and manage **Pterodactyl Panel** with theme 
 - **Admin Creation**: Auto-generates admin accounts and database setup.
 - **Custom Themes**: Includes multiple theme options like **DarkMode**, **Modern**, and **Colorful**.
 
-### 🧑‍💻 [Your Next Project Name]([https://github.com/YourRepoLink](https://github.com/Montuu13/MontuHosting1))
+### 🧑‍💻 [MOMTU V3]([https://github.com/YourRepoLink](https://github.com/Montuu13/MontuHosting1))
 Brief description of your next amazing project. Keep this space updated with your best work.
 
 ---
